@@ -1,4 +1,4 @@
-![image]()﻿
+![image](https://github.com/AbhilipsaPati0/PowerBI-Sales-Dashboard/blob/60586bac98539bf3b52e5958b0f7b89c8c591381/Screenshot%202026-01-31%20174049.png)﻿
 # Sales Performance Dashboard using Power BI
 
 ## Project Overview
@@ -65,4 +65,5 @@ The dashboard helps convert raw sales data into meaningful business insights thr
 1. Download the repository
 2. Open the .pbix file in Power BI Desktop
 3. Interact with visuals and filters to ex
+
 
