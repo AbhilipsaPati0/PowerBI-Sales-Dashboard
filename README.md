@@ -1,5 +1,4 @@
-![image](<img width="1211" height="647" alt="image" src="https://github.com/user-attachments/assets/a1435428-b0e3-42bd-8313-76bffcc474aa" />
-)﻿
+![image]()﻿
 # Sales Performance Dashboard using Power BI
 
 ## Project Overview
